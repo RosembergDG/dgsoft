@@ -1,2 +1,1 @@
-# dgsoft
-newproyect
+#DGSofware
